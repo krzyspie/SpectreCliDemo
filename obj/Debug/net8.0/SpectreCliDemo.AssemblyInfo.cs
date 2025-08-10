@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpectreCliDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a90c0c4b3d726536ba79f65c7128ee83e0d3f0ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpectreCliDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpectreCliDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
